@@ -1,5 +1,6 @@
 - Hi my name is mustafa
 - I’m interested in engineering and computers
 - Currently learning arduino and visual studio
-- How to reach me e-mail : M.Pekacar@outlook.com
-- Link-tr : 
+- How to reach me
+- e-mail : M.Pekacar@outlook.com
+- Link-tr : https://linktr.ee/mpekacar
